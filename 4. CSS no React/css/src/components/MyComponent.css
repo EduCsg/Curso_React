@@ -1,0 +1,13 @@
+p {
+	color: green;
+	font-weight: 600;
+	padding: 5px 0;
+	background-color: #1d1d1d;
+}
+
+.myCompParagraph {
+	background-color: green;
+	font-weight: 600;
+	padding: 5px 0;
+	color: #1d1d1d;
+}
