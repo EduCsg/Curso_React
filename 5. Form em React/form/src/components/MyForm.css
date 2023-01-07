@@ -1,0 +1,21 @@
+form {
+	width: 500px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+input,
+textarea,
+select {
+	display: block;
+	margin-top: 10px;
+}
+
+.submitBtn {
+	color: black;
+	padding: 5px;
+}
+
+.submitBtn:hover {
+	cursor: pointer;
+}
